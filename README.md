@@ -32,19 +32,21 @@ const now = {
 };
 ```
 
-<div align="center">
-  <img src="https://img.shields.io/badge/1st%20Prize-Agentic%20Premier%20League%20%7C%20GDG%20Gwalior-0F766E?style=for-the-badge&logo=google&logoColor=white" alt="1st Prize at Agentic Premier League by GDG Gwalior" />
-</div>
+> **1st Prize** — Agentic Premier League, GDG Gwalior (Social-cause track)
 
 ## Selected work
 
-<a href="https://antim-sahara.vercel.app">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=105&text=01%20%2F%20Antim%20Sahara&fontAlign=6&fontAlignY=36&fontSize=25&fontColor=FFFFFF&desc=Multilingual%20AI%20guide%20for%20essential%20family%20paperwork%20%E2%80%A2%20Next.js%20%2B%20RAG&descAlign=6&descAlignY=64&descSize=14&descColor=CCFBF1&color=0:0F766E,100:0E7490" alt="Antim Sahara — multilingual AI guide for essential family paperwork" width="100%" />
-</a>
+**01. [Antim Sahara](https://antim-sahara.vercel.app)**  
+Multilingual AI guidance for essential family paperwork.  
+`Next.js` `RAG` `Gemini API`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=105&text=02%20%2F%20AI%20Question%20Paper%20Generator&fontAlign=6&fontAlignY=36&fontSize=25&fontColor=FFFFFF&desc=Bilingual%20exam%20paper%20generation%20with%20reliable%20AI%20fallbacks%20%E2%80%A2%20Flask%20%2B%20Gemini&descAlign=6&descAlignY=64&descSize=14&descColor=DBEAFE&color=0:0F3B6D,100:1D4ED8" alt="AI Question Paper Generator — bilingual generation with AI fallbacks" width="100%" />
+**02. AI Question Paper Generator**  
+Bilingual exam-paper generation with reliable AI fallbacks.  
+`Python` `Flask` `Gemini API`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=105&text=03%20%2F%20Multi-tenant%20College%20ERP&fontAlign=6&fontAlignY=36&fontSize=25&fontColor=FFFFFF&desc=Secure%20education%20SaaS%20with%20isolated%20tenants%20and%20role-aware%20workflows%20%E2%80%A2%20Laravel&descAlign=6&descAlignY=64&descSize=14&descColor=EDE9FE&color=0:312E81,100:6D28D9" alt="Multi-tenant College ERP — secure education SaaS built with Laravel" width="100%" />
+**03. Multi-tenant College ERP**  
+Secure education SaaS with isolated tenants and role-aware workflows.  
+`Laravel` `MySQL` `Redis`
 
 ## Tools I reach for
 

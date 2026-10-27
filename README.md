@@ -1,101 +1,86 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=155&text=CHANCHAL%20GUPTA&fontAlign=50&fontAlignY=37&fontSize=45&fontColor=FFFFFF&animation=fadeIn&desc=FULL-STACK%20BUILDER%20%E2%80%A2%20AI%20EXPLORER%20%E2%80%A2%20OPEN%20SOURCE%20CONTRIBUTOR&descAlign=50&descAlignY=58&color=0:7C3AED,38:DB2777,70:0EA5E9,100:F59E0B" alt="Chanchal Gupta — Full-stack builder, AI explorer, open-source contributor" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=105&color=gradient&customColorList=12,18,24&animation=fadeIn" alt="" width="100%" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=700&size=36&duration=1&pause=1000&color=F8FAFC&center=true&vCenter=true&repeat=false&width=700&lines=Chanchal+Gupta" />
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=700&size=36&duration=1&pause=1000&color=0F172A&center=true&vCenter=true&repeat=false&width=700&lines=Chanchal+Gupta" alt="Chanchal Gupta" />
+</picture>
+
+<p><strong>FULL-STACK DEVELOPER</strong>&nbsp;&nbsp; / &nbsp;&nbsp;<strong>AI BUILDER</strong>&nbsp;&nbsp; / &nbsp;&nbsp;<strong>OPEN-SOURCE CONTRIBUTOR</strong></p>
 
 <p>
-  <a href="https://www.linkedin.com/in/chanchal-gupta-ac1926"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/chanchall26"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:chanchalgupta2605@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/chanchal-gupta-ac1926"><img src="https://img.shields.io/badge/LinkedIn-0F766E?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/chanchall26"><img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:chanchalgupta2605@gmail.com"><img src="https://img.shields.io/badge/Let's_talk-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="Email Chanchal" /></a>
 </p>
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=21&duration=3200&pause=900&color=7C3AED&center=true&vCenter=true&width=760&lines=I+build+useful+software+for+real+people.;Full-stack+web+apps+%C2%B7+AI+integrations+%C2%B7+SaaS.;From+Bhopal%2C+building+at+the+intersection+of+code+%26+impact." alt="Typing introduction" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=1100&color=0F766E&center=true&vCenter=true&width=800&lines=Building+useful+software+for+real+people.;SaaS+architecture+%C2%B7+AI+integration+%C2%B7+open+source.;Based+in+Bhopal%2C+India." alt="About Chanchal" />
 
 </div>
 
----
+<br/>
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
+## Hello, world.
 
-## A little about me
+I am a Computer Science Engineering undergraduate at UIT-RGPV and a full-stack developer based in Bhopal. I build dependable web products around complex, real-life workflows — with a particular interest in SaaS systems and practical AI.
 
-I'm a Computer Science Engineering undergraduate at UIT-RGPV, a full-stack developer, and an open-source contributor based in Bhopal, India. I enjoy turning complicated, real-world workflows into clean, dependable products — especially where AI can make the experience more human.
+```ts
+const now = {
+  building: ["multi-tenant SaaS", "AI-powered web products"],
+  exploring: ["RAG", "backend architecture", "system design"],
+  contributing: "open source and developer communities",
+  askMeAbout: ["Laravel", "Next.js", "Flask", "Gemini API"]
+};
+```
 
-- 🔭 Building multi-tenant SaaS and AI-powered web experiences
-- 🧠 Interested in backend architecture, RAG, and thoughtful product engineering
-- 🏆 1st Prize — Agentic Premier League, GDG Gwalior (Social-cause track)
-- 🌍 Open-source contributor who enjoys learning in public and improving useful tools
-- 🌱 Learning deeper system design, scalable APIs, and cloud infrastructure
-- 💬 Ask me about Laravel, Next.js, Flask, Gemini API, or shipping full-stack products
-
-    </td>
-    <td width="42%" valign="top">
-
-## Current stack
-
-**Build**  
-`Laravel` `Next.js` `React` `Flask`
-
-**Data**  
-`MySQL` `Redis` `SQLite`
-
-**Ship**  
-`Docker` `Nginx` `AWS S3` `Linux`
-
-**Explore**  
-`Gemini API` `RAG` `AI integration`
-
-    </td>
-  </tr>
-</table>
+> **Highlight:** 1st Prize, Agentic Premier League — GDG Gwalior, Social-cause track.
 
 ## Selected work
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🕊️ Antim Sahara</h3>
-      <p>A multilingual companion that helps Indian families navigate death certificates, bank and insurance claims, and succession paperwork.</p>
-      <p><code>Next.js</code> <code>Gemini API</code> <code>RAG</code> <code>Web Speech API</code></p>
-      <p><a href="https://antim-sahara.vercel.app">View live project →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📄 AI Question Paper Generator</h3>
-      <p>A bilingual question-paper platform with smart generation, a layered fallback strategy, and PDF/Word export.</p>
-      <p><code>Python</code> <code>Flask</code> <code>Gemini API</code> <code>Docker</code></p>
-      <p><em>Built for reliable generation across boards, subjects, difficulty, and marks.</em></p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🏫 Multi-tenant College ERP</h3>
-      <p>Production SaaS ERP with isolated tenant databases, role-aware workflows, a modular academic suite, and a REST API built for secure multi-college operations.</p>
-      <p><code>Laravel 13</code> <code>Livewire 4</code> <code>PHP 8.3</code> <code>MySQL</code> <code>Redis</code></p>
-    </td>
-  </tr>
-</table>
+### 01 / [Antim Sahara](https://antim-sahara.vercel.app)
 
-## Toolbox
+**A multilingual digital companion for families handling essential paperwork after a loss.** It guides people through death certificates, bank and insurance claims, and succession processes with voice support and an offline-first RAG assistant.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,php,java,js,html,css,laravel,react,nextjs,flask,mysql,redis,docker,nginx,aws,git,linux&perline=9" alt="Technology icons" />
+`Next.js` `Gemini API` `RAG` `Web Speech API`
+
+### 02 / AI Question Paper Generator
+
+**A resilient, bilingual paper-generation platform** for CBSE, ICSE, and state-board workflows. Designed a four-stage generation fallback and export flow so the experience stays useful when APIs do not.
+
+`Python` `Flask` `Gemini API` `MySQL` `Docker`
+
+### 03 / Multi-tenant College ERP
+
+**Production ERP infrastructure for educational institutions,** built with isolated databases, role-aware workflows, and a modular academic operations suite.
+
+`Laravel 13` `Livewire 4` `MySQL` `Redis` `AWS S3`
+
+## Tools I reach for
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,java,js,html,css,laravel,react,nextjs,flask,mysql,redis,docker,nginx,aws,git,linux&theme=light&perline=9" alt="Technology icons" />
 </p>
 
-## The contribution garden, in motion
+<div align="center">
+  <sub>BACKEND &nbsp;•&nbsp; PRODUCT ENGINEERING &nbsp;•&nbsp; AI INTEGRATION &nbsp;•&nbsp; DEVOPS</sub>
+</div>
+
+## The contribution garden
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chanchall26/chanchall26/output/github-contribution-grid-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/chanchall26/chanchall26/output/github-contribution-grid-snake.svg" alt="Animated snake travelling through Chanchal's contribution graph" />
 </picture>
 
----
-
 <div align="center">
 
-<i>Building technology that feels useful, reliable, and a little more human.</i>
+<br/>
+
+<i>Designing software to be useful first — and impressive because it works.</i>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=chanchall26&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=chanchall26&style=flat-square&color=0F766E&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>

@@ -1,18 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=105&color=gradient&customColorList=12,18,24&animation=fadeIn" alt="" width="100%" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=700&size=36&duration=1&pause=1000&color=F8FAFC&center=true&vCenter=true&repeat=false&width=700&lines=Chanchal+Gupta" />
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=700&size=36&duration=1&pause=1000&color=0F172A&center=true&vCenter=true&repeat=false&width=700&lines=Chanchal+Gupta" alt="Chanchal Gupta" />
-</picture>
-
-<p><strong>FULL-STACK DEVELOPER</strong>&nbsp;&nbsp; / &nbsp;&nbsp;<strong>AI BUILDER</strong>&nbsp;&nbsp; / &nbsp;&nbsp;<strong>OPEN-SOURCE CONTRIBUTOR</strong></p>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=235&text=Chanchal%20Gupta&fontAlign=50&fontAlignY=42&fontSize=52&fontColor=FFFFFF&animation=fadeIn&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20AI%20BUILDER%20%E2%80%A2%20OPEN-SOURCE%20CONTRIBUTOR&descAlign=50&descAlignY=62&descSize=15&descColor=DBEAFE&stroke=38BDF8&strokeWidth=1&color=0:0F172A,38:0F766E,70:0369A1,100:4338CA" alt="Chanchal Gupta — Full-stack developer, AI builder, and open-source contributor" width="100%" />
 
 <p>
   <a href="https://www.linkedin.com/in/chanchal-gupta-ac1926"><img src="https://img.shields.io/badge/LinkedIn-0F766E?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/chanchall26"><img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:chanchalgupta2605@gmail.com"><img src="https://img.shields.io/badge/Let's_talk-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="Email Chanchal" /></a>
+  <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-059669?style=flat-square&logo=handshake&logoColor=white" alt="Open to work" />
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=1100&color=0F766E&center=true&vCenter=true&width=800&lines=Building+useful+software+for+real+people.;SaaS+architecture+%C2%B7+AI+integration+%C2%B7+open+source.;Based+in+Bhopal%2C+India." alt="About Chanchal" />
@@ -21,9 +15,13 @@
 
 <br/>
 
-## Hello, world.
+## A little about me
 
-I am a Computer Science Engineering undergraduate at UIT-RGPV and a full-stack developer based in Bhopal. I build dependable web products around complex, real-life workflows — with a particular interest in SaaS systems and practical AI.
+Hi, I'm Chanchal — a Computer Science student and full-stack developer from Bhopal. I like taking messy, real-world problems and turning them into software that feels simple and useful. From multi-tenant ERP platforms to AI-assisted tools, I enjoy building products that help people get things done.
+
+I'm especially interested in thoughtful backend systems, practical AI, and open source. I learn in public, enjoy collaborating with good people, and care about writing software that is reliable before it is flashy.
+
+**I'm open to work** — internships, freelance projects, open-source collaboration, and opportunities where I can build, learn, and contribute.
 
 ```ts
 const now = {

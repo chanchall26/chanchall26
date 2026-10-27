@@ -1,15 +1,13 @@
 <div align="center">
 
-# Chanchal Gupta
-
-### Full-Stack Developer · AI Builder · CSE Undergraduate
+<img src="https://capsule-render.vercel.app/api?type=waving&height=155&text=CHANCHAL%20GUPTA&fontAlign=50&fontAlignY=37&fontSize=45&fontColor=FFFFFF&animation=fadeIn&desc=FULL-STACK%20BUILDER%20%E2%80%A2%20AI%20EXPLORER%20%E2%80%A2%20OPEN%20SOURCE%20CONTRIBUTOR&descAlign=50&descAlignY=58&color=0:7C3AED,38:DB2777,70:0EA5E9,100:F59E0B" alt="Chanchal Gupta — Full-stack builder, AI explorer, open-source contributor" />
 
 <p>
   <a href="https://www.linkedin.com/in/chanchal-gupta-ac1926"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/chanchall26"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:chanchalgupta2605@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=3200&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=I+build+useful+software+for+real+people.;Full-stack+web+apps+%C2%B7+AI+integrations+%C2%B7+SaaS.;Currently+crafting+at+the+intersection+of+code+%26+impact." alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=21&duration=3200&pause=900&color=7C3AED&center=true&vCenter=true&width=760&lines=I+build+useful+software+for+real+people.;Full-stack+web+apps+%C2%B7+AI+integrations+%C2%B7+SaaS.;From+Bhopal%2C+building+at+the+intersection+of+code+%26+impact." alt="Typing introduction" />
 
 </div>
 
@@ -85,14 +83,26 @@ I'm a Computer Science Engineering undergraduate at UIT-RGPV, a full-stack devel
 
 ## GitHub pulse
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chanchall26&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=E5E7EB&ring_color=A78BFA" alt="Chanchal's GitHub statistics" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=chanchall26&hide_border=true&background=0D1117&ring=A78BFA&fire=F59E0B&currStreakLabel=E5E7EB&sideLabels=E5E7EB&dates=9CA3AF&stroke=0D1117" alt="Chanchal's contribution streak" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=chanchall26&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=22D3EE&text_color=E5E7EB&ring_color=F472B6" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chanchall26&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=6D28D9&icon_color=0891B2&text_color=334155&ring_color=DB2777" alt="Chanchal's GitHub statistics" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=chanchall26&hide_border=true&background=0D1117&ring=F472B6&fire=F59E0B&currStreakLabel=E5E7EB&sideLabels=C4B5FD&dates=9CA3AF&stroke=0D1117" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=chanchall26&hide_border=true&background=FFFFFF&ring=DB2777&fire=EA580C&currStreakLabel=334155&sideLabels=6D28D9&dates=64748B&stroke=FFFFFF" alt="Chanchal's contribution streak" />
+</picture>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chanchall26&bg_color=0D1117&color=E5E7EB&line=8B5CF6&point=22D3EE&area=true&hide_border=true" alt="Contribution graph" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=chanchall26&bg_color=0D1117&color=E5E7EB&line=A78BFA&point=22D3EE&area=true&area_color=7C3AED&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chanchall26&bg_color=FFFFFF&color=334155&line=7C3AED&point=DB2777&area=true&area_color=C4B5FD&hide_border=true" alt="Contribution graph" />
+</picture>
+
+## The contribution garden, in motion
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chanchall26/chanchall26/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/chanchall26/chanchall26/output/github-contribution-grid-snake.svg" alt="Animated snake travelling through Chanchal's contribution graph" />
+</picture>
 
 ---
 

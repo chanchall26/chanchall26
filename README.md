@@ -81,22 +81,6 @@ I'm a Computer Science Engineering undergraduate at UIT-RGPV, a full-stack devel
   <img src="https://skillicons.dev/icons?i=python,php,java,js,html,css,laravel,react,nextjs,flask,mysql,redis,docker,nginx,aws,git,linux&perline=9" alt="Technology icons" />
 </p>
 
-## GitHub pulse
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=chanchall26&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=22D3EE&text_color=E5E7EB&ring_color=F472B6" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chanchall26&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=6D28D9&icon_color=0891B2&text_color=334155&ring_color=DB2777" alt="Chanchal's GitHub statistics" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=chanchall26&hide_border=true&background=0D1117&ring=F472B6&fire=F59E0B&currStreakLabel=E5E7EB&sideLabels=C4B5FD&dates=9CA3AF&stroke=0D1117" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=chanchall26&hide_border=true&background=FFFFFF&ring=DB2777&fire=EA580C&currStreakLabel=334155&sideLabels=6D28D9&dates=64748B&stroke=FFFFFF" alt="Chanchal's contribution streak" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=chanchall26&bg_color=0D1117&color=E5E7EB&line=A78BFA&point=22D3EE&area=true&area_color=7C3AED&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chanchall26&bg_color=FFFFFF&color=334155&line=7C3AED&point=DB2777&area=true&area_color=C4B5FD&hide_border=true" alt="Contribution graph" />
-</picture>
-
 ## The contribution garden, in motion
 
 <picture>
